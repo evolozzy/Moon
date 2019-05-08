@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Me
+tags: [about, Ozan Kiratli, ozan]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<table><col width="300"><col width="10"><col width="200"> <tr>
+<th>
+<p><span style="font-weight:normal"> PhD Candidate working with Dr. Paul Schmidt at the University of Pennsylvania. <br />
+<br />
+The ecological genetics of natural populations, and the effects of it on adaptation is loosely understood. In this broad topic, I’m interested in migration and the contributions of migration to adapdation. My current aim is to understand the migration selection balance in natural populations of <i>D. melanogaster</i>, in various temporal and spatial settings. To achieve this, in my research, I use field collections, indoor and experimental outdoor populations, and various experimental and computational methods to analyze them.</span></p>
+</th>
+<th></th>
+<th><img src="/assets/img/evolozzy200.jpg" align="right"></th>
+</tr></table>
 
-## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}

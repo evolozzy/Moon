@@ -1,4 +1,16 @@
 # Site navigation links
 
+- title: Research
+  url: research/
+
 - title: Projects
-  url: /projects/
+  url: projects/
+
+- title: Teaching
+  url: teaching/
+
+- title: Contact
+  url: contact/
+
+- title: CV
+  url: assets/files/CV.pdf
