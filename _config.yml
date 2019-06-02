@@ -73,5 +73,21 @@ gems:
 jekyll-mentions:
     base_url: https://github.com
 
+
+webrick:
+  headers:
+    - X-Content-Type-Options: "nosniff"
+    - X-XSS-Protection: "1; mode=block"
+      #- X-Robots-Tag: "none"
+      #- X-Download-Options: "noopen"
+      #- X-Permitted-Cross-Domain-Policies: "none"
+    - Referrer-Policy: "no-referrer"
+    - Strict-Transport-Security: max-age=31536000; includeSubDomains
+    - X-Frame-Options: "SAMEORIGIN"
+    - Header set X-Content-Type-Options: "nosniff"
+    - Feature-Policy: "geolocation 'none';midi 'none';notifications 'none';push 'none';sync-xhr 'none';microphone 'none';camera 'none';magnetometer 'none';gyroscope 'none';speaker 'self';vibrate 'none';fullscreen 'self';payment 'none'"
+
+
+
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
