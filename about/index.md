@@ -8,7 +8,7 @@ comments: false
 
 <table><col width="300"><col width="10"><col width="200"> <tr>
 <th>
-<p><span style="font-weight:normal"> **PhD Candidate**, working with Dr. Paul Schmidt at the University of Pennsylvania. <br />
+<p><span style="font-weight:normal"> <b>PhD Candidate</b>, working with Dr. Paul Schmidt at the University of Pennsylvania. <br />
 <br />
 The ecological genetics of natural populations, and the effects of it on rapid adaptation is one of the topics that captures the interest of many scientists. In this broad topic, I’m interested in migration/gene flow dynamics and the contributions of gene flow to rapid adapdation. <br />
 <br />
