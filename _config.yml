@@ -6,7 +6,8 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 profilepic:         'assets/img/evolozzypp.jpg'
-background:         'assets/img/placeholder-big.jpg'
+ppmainpage:         'assets/img/evolozzy200.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://evolozzy.github.io/
