@@ -14,7 +14,7 @@ The ecological genetics of natural populations, and the effects of it on rapid a
 <br />
 Currently, I focus on understanding the migration-selection balance in natural populations of <i>D. melanogaster</i> in various temporal and spatial settings, as well as their dispersal and the factors contributing to it.<br />
 <br />
-To achieve this, in my research, I use *D. melanogaster*, collected from their natural habitat, to create experimental populations. Using these populations, I design and conduct large scale lab- and field-based experiments, where I can observe population scale changes.</span></p>
+To achieve this, in my research, I use <i>D. melanogaster</i>, collected from their natural habitat, to create experimental populations. Using these populations, I design and conduct large scale lab- and field-based experiments, where I can observe population scale changes.</span></p>
 </th>
 <th></th>
 <th><img src="/assets/img/evolozzy200.jpg" align="right"></th>
