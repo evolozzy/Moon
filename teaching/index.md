@@ -9,7 +9,7 @@ comments: false
 # Teaching Assistant
 ## University of Pennsylvania
 
-|  <div style="width: 100px">property</div> |    |
+| &nbsp; &nbsp; &nbsp; |    |
 |----|----|
 | **Spring 2019:** | _Introduction to Evolutionary Biology._ Teaching Assistant. Instructor: Dr. Paul Schmidt | 
 | **Fall 2018:**   | Humans and the Environment. Teaching Assistant. Instructor: Dr. Dan  Janzen |
