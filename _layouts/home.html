@@ -44,20 +44,23 @@ layout: compress
                          </a>
                  </h3>
                   <hr class="hr-line">
-		    <a href="{{ site.url }}">
-			<img src="{{ site.ppmainpage }}" >
-		    </a>
+		  
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}/about">
                         	<p style="font-size:2.5rem;font-weight:400">{{ site.title }}</p>
 			            </a>
                     </h3>
-                    <hr class="hr-line">
+		    <table><col width="230"><col width="20"><col width="100"><tr>
+		  <th><a href="{{ site.url }}">
+			<img src="{{ site.ppmainpage }}" >
+		  </a></th><th></th>
+		  <th>
                     <h3 class="title">
                         <a href="{{ site.url }}/about">
                         	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
+			 </a>
+                    </h3></th>
+		  </tr></table>
                   <hr class="hr-line">
                     {% include social-links.html %}
             </div>
