@@ -7,11 +7,11 @@ comments: false
 ---
 
 # Teaching Assistant
-## University of Pennsylvania
-
 
 |                  |                                                   |
 |-----------------:|---------------------------------------------------|
+|                  | **University of Pennsylvania**                    |
+|------------------|---------------------------------------------------|
 | **Spring 2019:** | Introduction to Evolutionary Biology              |
 |                  | _Instructor: Dr. Paul Schmidt_                    | 
 | --- | --- |
@@ -29,17 +29,25 @@ comments: false
 |                  | _Instructors: Dr. Greg Guild, Dr. Scott Poethig_  |
 |                  | _Head TA: Dr. Staver Bezhani_                     |
 |------------------|---------------------------------------------------|
-
-
-## Middle East Technical University
-
-| <img width=100/> |    |
-|----|----|
-| **Spring 2015** | Biostatistics. Teaching Assistant. Instructor: Dr. Inci Togan |
-| **Spring 2015** | Intro Bio. Teaching Assistant. Instructor: Dr. Semra Kocabiyik |
-| **Fall 2014**   | Intro Bio. Teaching Assistant. Instructor: Dr. Aysegul Gozen |
-| **Spring 2014** | Intro Bio. Teaching Assistant. Instructor: Dr. Aysegul Gozen |
-| **Spring 2014** | Biostatistics. Teaching Assistant. Instructor: Dr. Inci Togan |
+|                  |                                                   |
+|------------------|---------------------------------------------------|
+|                  | **Middle East Technical University**              | 
+|------------------|---------------------------------------------------|
+| **Spring 2015**  | Introduction to Biometry                          |
+|                  | _Instructor: Dr. Inci Togan_                      |
+|------------------|---------------------------------------------------|
+| **Spring 2015**  | Molecular and Cellular Biology II                 |
+|                  | _Instructor: Dr. Semra Kocabiyik_                 |
+|------------------|---------------------------------------------------|
+| **Fall 2014**    | General Biology I                                 |
+|                  | _Instructor: Dr. Aysegul Gozen_                   |
+|------------------|---------------------------------------------------|
+| **Spring 2014**  | General Biology II                                |
+|                  | _Instructor: Dr. Aysegul Gozen_                   |
+|------------------|---------------------------------------------------|
+| **Spring 2014**  | Introduction to Biometry                          | 
+|                  | _Instructor: Dr. Inci Togan_                      |
+|------------------|---------------------------------------------------|
 
 
 
