@@ -18,6 +18,7 @@ comments: false
 | **Fall 2016:** |  Intro Biology A. Teaching Assistant. Instructors: Dr. Greg Guild, Dr. Scott Poethig. Head TA: Dr. Staver Bezhani |
 
 ## Middle East Technical University
+
 | <img width=100/> |    |
 |----|----|
 | **Spring 2015** | Biostatistics. Teaching Assistant. Instructor: Dr. Inci Togan |
