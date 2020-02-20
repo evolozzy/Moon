@@ -15,7 +15,7 @@ comments: false
 | **Fall 2017:** | Intro Biology A. Teaching Assistant. Instructors: Dr. Scott Poethig, Dr. John Wagner. Head TA: Dr. Staver Bezhani |
 |----|-----|
 | **Spring 2017:** | Introduction to Evolutionary Biology. Teaching Assistant. Instructor: Dr. Paul Schmidt | 
-| ---- | ----|
+|----|-------|
 | **Fall 2016:** |  Intro Biology A. Teaching Assistant. Instructors: Dr. Greg Guild, Dr. Scott Poethig. Head TA: Dr. Staver Bezhani |
 
 ## Middle East Technical University
