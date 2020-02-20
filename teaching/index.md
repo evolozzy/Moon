@@ -9,7 +9,7 @@ comments: false
 # Teaching Assistant
 ## University of Pennsylvania
 
-| <img width=100> |    |
+| <img width=100/> |    |
 |----|----|
 | **Spring 2019:** | _Introduction to Evolutionary Biology._ Teaching Assistant. Instructor: Dr. Paul Schmidt | 
 | **Fall 2018:**   | Humans and the Environment. Teaching Assistant. Instructor: Dr. Dan  Janzen |
@@ -18,7 +18,7 @@ comments: false
 | **Fall 2016:** |  Intro Biology A. Teaching Assistant. Instructors: Dr. Greg Guild, Dr. Scott Poethig. Head TA: Dr. Staver Bezhani |
 
 ## Middle East Technical University
-| <img width=100> |    |
+| <img width=100/> |    |
 |----|----|
 | **Spring 2019:** | _Introduction to Evolutionary Biology._ Teaching Assistant. Instructor: Dr. Paul Schmidt | 
 | **Spring 2015** | Biostatistics. Teaching Assistant. Instructor: Dr. Inci Togan |
