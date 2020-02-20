@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-| Teaching Assistant |                                                   |
+| <font size="3"> Teaching Assistant </font> |                           |
 |-------------------:|---------------------------------------------------|
 |                    | **University of Pennsylvania**                    |
 |--------------------|---------------------------------------------------|
