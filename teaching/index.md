@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-tags: [about, Ozan Kiratli, ozan]
+tags: [teaching, teaching experience, about, Ozan Kiratli, ozan]
 date: 2019-05-07
 comments: false
 ---
@@ -10,7 +10,13 @@ comments: false
 
 |                  |                                                   |
 |-----------------:|---------------------------------------------------|
-|                   **University of Pennsylvania**                    |
+|                  | **University of Pennsylvania**                    |
+|------------------|---------------------------------------------------|
+| **Spring 2020:** | Introduction to Evolutionary Biology              |
+|                  | _Instructor: Dr. Paul Schmidt_                    | 
+|------------------|---------------------------------------------------|
+| **Fall 2019:**   | Humans and the Environment                        |
+|                  | _Instructor: Dr. Dan Janzen_                      |
 |------------------|---------------------------------------------------|
 | **Spring 2019:** | Introduction to Evolutionary Biology              |
 |                  | _Instructor: Dr. Paul Schmidt_                    | 
@@ -31,7 +37,7 @@ comments: false
 |------------------|---------------------------------------------------|
 |                  |                                                   |
 |------------------|---------------------------------------------------|
-|                   **Middle East Technical University**              | 
+|                  | **Middle East Technical University**              | 
 |------------------|---------------------------------------------------|
 | **Spring 2015**  | Introduction to Biometry                          |
 |                  | _Instructor: Dr. Inci Togan_                      |
