@@ -10,8 +10,7 @@ comments: false
 <th><img src="/assets/img/field.jpg" align="right"></th>
 <th></th>
 <th><span style="font-weight:normal"> 
-<p><span style="font-weight:normal"> <b>PhD Candidate</b>, working with Dr. Paul Schmidt at the University of Pennsylvania. <br />
-<br />
+<p><span style="font-weight:normal">
 The ecological genetics of natural populations, and the effects of it on rapid adaptation is one of the topics that captures the interest of many scientists. In this broad topic. I’m interested in migration/gene flow dynamics and the contributions of gene flow to rapid adapdation. <br />
 <br />
 Currently, I focus on understanding the migration-selection balance in natural populations of <i>D. melanogaster</i> in various temporal and spatial settings, as well as their dispersal and the factors contributing to it.<br />
