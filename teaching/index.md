@@ -27,7 +27,7 @@ comments: false
 |                  | _Instructors: Dr. Greg Guild, Dr. Scott Poethig_  |
 |                  | _Head TA: Dr. Staver Bezhani_                     |
 |------------------+---------------------------------------------------|
-{: rules="groups"}
+
 
 ## Middle East Technical University
 
