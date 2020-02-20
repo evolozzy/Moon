@@ -9,7 +9,7 @@ comments: false
 # Teaching Assistant
 ## University of Pennsylvania
 
-| <img width=100/> |    |
+| ![img](){width=100px}|    |
 |----|----|
 | **Spring 2019:** | _Introduction to Evolutionary Biology._ Teaching Assistant. Instructor: Dr. Paul Schmidt | 
 | **Fall 2018:**   | Humans and the Environment. Teaching Assistant. Instructor: Dr. Dan  Janzen |
@@ -20,7 +20,6 @@ comments: false
 ## Middle East Technical University
 | <img width=100/> |    |
 |----|----|
-| **Spring 2019:** | _Introduction to Evolutionary Biology._ Teaching Assistant. Instructor: Dr. Paul Schmidt | 
 | **Spring 2015** | Biostatistics. Teaching Assistant. Instructor: Dr. Inci Togan |
 | **Spring 2015** | Intro Bio. Teaching Assistant. Instructor: Dr. Semra Kocabiyik |
 | **Fall 2014**   | Intro Bio. Teaching Assistant. Instructor: Dr. Aysegul Gozen |
