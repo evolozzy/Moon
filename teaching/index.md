@@ -7,9 +7,9 @@ comments: false
 ---
 
 
-| <font size="3"> Teaching Assistant </font> |                           |
+| <font size="4"> Teaching Assistant </font> |                           |
 |-------------------:|---------------------------------------------------|
-|                    | **University of Pennsylvania**                    |
+|                    | <font size="3"><b>University of Pennsylvania</b></font> |
 |--------------------|---------------------------------------------------|
 | **Spring 2020:**   | Introduction to Evolutionary Biology              |
 |                    | _Instructor: Dr. Paul Schmidt_                    | 
@@ -36,7 +36,7 @@ comments: false
 |--------------------|---------------------------------------------------|
 |                    |                                                   |
 |--------------------|---------------------------------------------------|
-|                    | **Middle East Technical University**              | 
+|                    | <font size="3"><b>Middle East Technical University</b></font> |
 |--------------------|---------------------------------------------------|
 | **Spring 2015**    | Introduction to Biometry                          |
 |                    | _Instructor: Dr. Inci Togan_                      |
