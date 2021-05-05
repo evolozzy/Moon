@@ -232,3 +232,30 @@
   -webkit-animation-name: rotateIn;
   animation-name: rotateIn;
 }
+
+
+@-webkit-keyframes fadeInDelay {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInDelay {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeInDelay {
+  animation-delay: 0.5s;
+  -webkit-animation-name: fadeInDelay;
+  animation-name: fadeInDelay;
+}
